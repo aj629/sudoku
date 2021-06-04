@@ -1,7 +1,7 @@
 # sudoku
 
 Valid.py checks if your board is valid and asks if you want to solve your board
-The sudoku solver that uses the backtracking algorithm to solve a board.
+The sudoku solver uses the backtracking algorithm to solve a board.
 
 This file can be used to verify any size board (EX: nontraditional 6x6 cubed with digits 1-36 sudoku boards)
 
