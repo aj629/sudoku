@@ -11,4 +11,5 @@ This file can be used to verify any size board (EX: nontraditional 6x6 cubed wit
 
 - In the test_cases folder are some sudoku examples that were used to test the algorithm out.
 
-- Based on Tech_with_Tim tutorial
+- Based on a Tech_With_Tim tutoral but was expanded to any board size and also added verification
+  interactive terminal component.
